@@ -1,4 +1,8 @@
 # Logistics_operation_DashBoard
+
+![Uploading Screenshot 2026-09-19 122811.png…]()
+
+
 Powerbi- Dashboard is designed to support logistics performance monitoring and operational decision-making by providing a centralized view of order demand, delivery efficiency, vehicle utilization, and hub performance.
 🚚 Trucking Logistics – Operations Overview Dashboard
 
